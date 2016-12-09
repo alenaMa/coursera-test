@@ -1,0 +1,49 @@
+body {
+  background-color: #A1D0CF;
+}
+#header-nav {
+  background-color: #ECE7C2;
+  border-radius: 0;
+  border: 0;
+}
+.navbar-brand {
+  padding-top: 10px;
+  margin-bottom: 10px;
+}
+.navbar-brand h1 {
+  font-weight: bold;
+  color: #A1D0CF;
+  font-size: 2em;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+#nav-list {
+  background-color: #3C7F7E;
+  padding:0;
+  margin-top:0;
+  margin-bottom: 0;
+}
+#nav-list a {
+  color:#ECE7C2;
+  text-align: center;
+}
+
+h2{
+  font-size: 2.3em;
+  color: #ECE7C2;
+  text-shadow: 1px 1px 3px #222;
+  margin-bottom: 20px;
+}
+.box{
+  background-color: #3C7F7E;
+  margin: 5px;
+  padding: 1px 15px;
+  color: #ECE7C2;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  #sushi-box {
+    margin-top: 25px;
+  }
+}
